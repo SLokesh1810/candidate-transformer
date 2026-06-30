@@ -1,0 +1,33 @@
+candidate_id,name,email,phone,current_company,title
+C001,  Lokesh S ,slokesh1810@gmail.com,98765 43210,Google,SWE Intern
+C002,Alice Smith,ALICE.SMITH@GMAIL.COM,+1 (415) 555-2671,amazon,Software Engineer
+C003,Bob Johnson,bob.johnson@yahoo.com,919876543210,Microsoft,SDE-2
+C004,Emily Davis, Emily.Davis@Outlook.com ,09876543210,Meta,SWE
+C005,Rahul Kumar,rahul.kumar@gmail.com,+91-9876543211,TCS,Senior Software Engineer
+C006,Priya Sharma,PRIYA@GMAIL.COM,,Infosys,Associate Engineer
+C007,Arjun R,arjun.r@company.co.in,(987) 654-3212,Zoho,SDE I
+C008, John   Doe ,john.doe@gmail.com,+44 7700 900123,Amazon Web Services,Backend Developer
+C009,Sarah Lee,sarah.lee@gmail.com,1234567890,Netflix,Software Dev Engineer
+C003,BOB JOHNSON,bob.johnson@yahoo.com,919876543210,MICROSOFT,SDE-2
+C010,Michael Brown,michael.brown@gmail.com,+61 412 345 678,Atlassian,Platform Engineer
+C011,Neha Gupta,NEHA.GUPTA@GMAIL.COM,+91 98765-12345,Walmart,Data Engineer
+C012,David Miller,david.miller@hotmail.com,9876543213,IBM,Cloud Engineer
+C013,Ananya Iyer,ananya.iyer@gmail.com,+91 (98765) 11111,Oracle,SDE-1
+C014,Chris Wilson,chris@proton.me,+49 1512 3456789,Spotify,Senior Backend Engineer
+C015,Meera Nair,meera.nair@gmail.com,98765-88888,Adobe,Software Engineer II
+C016,  Vikram  Singh ,vikram.singh@outlook.com,,  Flipkart ,QA Engineer
+C017,Jessica Taylor,jessica.t@twosigma..com,1-555-321-4567,Two Sigma,Quant Developer
+C018,Tom Cruise,tom_cruise_topgun,+123456789,Paramount,Actor / Producer
+C019,Aarav Patel,aarav.patel@gmail.com,00919988776655,Reliance,
+C020,Elena Rostova,elena.r@yandex.ru,   ,Telegram,Backend Lead
+C021,Carlos Santana,carlos@santana.com,555-MUSIC-01,Sony Music,Guitarist
+C022,  ,anonymous@secret.com,1112223333,Unemployed,Intern
+C023,Li Wei,li.wei@baidu.cn,+86 10 6250 1234,Baidu,AI Scientist
+C024,Fatima Al-Sayed,fatima.alsayed@emirates.ae,,Emirates,Data Analyst
+C025,James Bond,bond.007@mi6.gov.uk,+44 (0) 20 7946 0192,MI6,Security Engineer
+C011,Neha Gupta,neha.gupta@gmail.com,+919876512345,walmart,Data Engineer
+C026,Robert Downey Jr.,tony@starkindustries.com,1-800-IRONMAN,Stark Industries,Chief Engineer
+C027,Grace Hopper,grace@hopper.org,,US Navy,Compiler Architect
+C028,Alan Turing,turing@bletchley.org.uk,+441908640404,Government Code & Cypher School,Cryptanalyst
+c029,lowercase id,lower@case.com,12345,small co,se
+C030,Linus Torvalds,torvalds@linuxfoundation.org,unknown,Linux Foundation,Benevolent Dictator for Life

@@ -1,0 +1,89 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Lokesh S",
+        "primary_email": "slokesh1810@gmail.com",
+        "phone": "+919876543210",
+        "github": "https://github.com/SLokesh1810",
+        "linkedin": null,
+        "portfolio": "https://lokesh-portfolio-umber-one.vercel.app",
+        "city": null,
+        "headline": "Backend and AI enthusiast with experience building scalable applications.",
+        "years_experience": 0.2,
+        "skills": [
+            "Docker",
+            "Fastapi",
+            "Git",
+            "Python",
+            "Sql",
+            "TypeScript"
+        ],
+        "experience": [
+            {
+                "company": "Google",
+                "title": "Software Engineer Intern",
+                "start_date": "2026-05",
+                "end_date": null
+            }
+        ],
+        "education": [
+            {
+                "institution": "Kongu Engineering College",
+                "degree": "B.Tech",
+                "field_of_study": "Information Technology",
+                "end_year": 2027
+            }
+        ],
+        "overall_confidence": 0.91
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Alice Smith",
+        "primary_email": "alice.smith@gmail.com",
+        "phone": "+14155552671",
+        "github": "https://github.com/octocat",
+        "linkedin": null,
+        "portfolio": "https://github.blog",
+        "city": "San Francisco",
+        "headline": "Frontend developer.",
+        "years_experience": 1.9,
+        "skills": [
+            "CSS",
+            "HTML",
+            "React"
+        ],
+        "experience": [
+            {
+                "company": "Amazon",
+                "title": "Software Engineer",
+                "start_date": "2024/01",
+                "end_date": "2025-12"
+            }
+        ],
+        "education": [
+            {
+                "institution": "Stanford University",
+                "degree": "B.S.",
+                "field_of_study": "Computer Science",
+                "end_year": 2024
+            }
+        ],
+        "overall_confidence": 1.0
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Bob Johnson",
+        "primary_email": null,
+        "phone": null,
+        "github": null,
+        "linkedin": null,
+        "portfolio": null,
+        "city": null,
+        "headline": null,
+        "years_experience": null,
+        "skills": null,
+        "experience": null,
+        "education": null,
+        "overall_confidence": 0.12
+    }
+]
