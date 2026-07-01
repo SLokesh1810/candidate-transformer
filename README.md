@@ -130,6 +130,18 @@ pip install -r requirements.txt
 
 ---
 
+### Configure GitHub API Token
+
+To enable GitHub profile enrichment, create a `.env` file in the project root and add your GitHub Personal Access Token:
+
+```env
+GITHUB_TOKEN=your_github_personal_access_token
+```
+
+Generate a Personal Access Token from **GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)**.
+
+---
+
 # Input Files
 
 The tool expects three input datasets.
