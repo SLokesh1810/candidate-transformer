@@ -331,6 +331,22 @@ The application handles:
 
 ---
 
+## Pipeline Overview
+
+The following diagram illustrates the complete processing pipeline of the Candidate Multi-Source Transformer.
+
+<p align="center">
+  <img src="assets/pipeline.png" alt="Candidate Multi-Source Transformer Pipeline" width="50%">
+</p>
+
+### Pipeline Stages
+
+1. **Source Adapters** – Parse and normalize candidate data from Candidate CSV, GitHub, and ATS into a common internal format.
+2. **Candidate Matcher** – Groups records belonging to the same candidate using `candidate_id`.
+3. **Merge Engine** – Applies source-aware merge rules to construct a single canonical candidate profile while deduplicating lists.
+4. **Provenance & Confidence** – Tracks the source of every merged field and computes an overall confidence score based on profile completeness.
+5. **Projection Engine** – Transforms the canonical candidate into the required output schema using the runtime projection configuration.
+
 # Author
 
 Lokesh S
